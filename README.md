@@ -2,9 +2,12 @@
 
 ## Setup & Running
 
+Compilation tested with MacOS 26.0 Tahoe and Windows 11
+
 ### Prerequisites
 - Java 25
-- Node.js 20+ and Yarn
+- Node.js 20+ 
+- Optional: Yarn
 - Gradle (included via wrapper)
 
 ### Backend Setup
