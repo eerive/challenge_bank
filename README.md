@@ -14,7 +14,7 @@ Compilation tested with MacOS 26.0 Tahoe and Windows 11
 
 1. Navigate to the backend directory:
    ```bash
-   cd /Users/mdlam/development/bank
+   cd <your_assigned_folder>/bank
    ```
 
 2. Build the project:
