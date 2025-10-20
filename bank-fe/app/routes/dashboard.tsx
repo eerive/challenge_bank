@@ -164,7 +164,7 @@ export default function Dashboard() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-500 mb-2">
-                        Recent Transfers
+                        Recent outgoing transfers
                       </p>
                       <p className="text-sm text-gray-600">
                         {account.recentTransfers.length} transaction(s)
